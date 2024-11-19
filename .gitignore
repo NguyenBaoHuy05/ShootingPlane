@@ -1,0 +1,20 @@
+# Thư mục tạm
+bin/
+obj/
+.vs/
+
+# File cục bộ
+*.user
+*.suo
+
+# File log
+*.log
+*.tmp
+
+# File dựng tự động
+*.exe
+*.dll
+*.pdb
+
+# NuGet packages
+packages/
